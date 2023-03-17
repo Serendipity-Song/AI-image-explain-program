@@ -11,14 +11,6 @@
 <br>
 <br>
 
-웹페이지 첫번째 화면
-
-![](https://images.velog.io/images/thdalwh3867/post/3b11cb46-684d-4bb4-ab85-d8c4fafbebed/image.png)
-
-
-<br>
-<br>
-<br>
 
 아무것도 물체를 보여주지 않았을 때 화면
 
